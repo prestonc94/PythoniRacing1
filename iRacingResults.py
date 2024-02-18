@@ -1,2 +1,2 @@
-print("Program update #3")
-print("Hello World!")
+#Github version of iRacing program
+print("Hello World")
